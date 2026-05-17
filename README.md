@@ -28,3 +28,22 @@ A robust and user-friendly **Student Management System** built with Python. This
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/your-username/student-management-system.git](https://github.com/your-username/student-management-system.git)
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+
+## 📊 Skills Demonstrated
+
+- **OOP Concepts:** Classes, methods, encapsulation
+- **File I/O:** JSON-based persistent data storage
+- **CRUD Operations:** Create, Read, Update, Delete records
+- **Error Handling:** Robust input validation
+- **CLI Interface:** Menu-driven user interaction
+
+## 👨‍💻 Author
+
+**Aadesh Kapadnis** | [LinkedIn](https://linkedin.com/in/aadesh-kapadnis) | [GitHub](https://github.com/Shree1194)
